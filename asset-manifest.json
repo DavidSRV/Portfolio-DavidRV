@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-DavidRV/static/css/main.6de92685.css",
-    "main.js": "/Portfolio-DavidRV/static/js/main.131c6b77.js",
+    "main.js": "/Portfolio-DavidRV/static/js/main.f45a6578.js",
     "static/media/Fondo-CV.jpg": "/Portfolio-DavidRV/static/media/Fondo-CV.2d93986bf0f9a3cdb4c4.jpg",
     "static/media/Prueba1CambioMain.jpg": "/Portfolio-DavidRV/static/media/Prueba1CambioMain.d54875b482349c00216c.jpg",
     "static/media/imgDavid.png": "/Portfolio-DavidRV/static/media/imgDavid.ea43c21adc7e305c5421.png",
@@ -14,10 +14,10 @@
     "static/media/AdviceAPI.jpg": "/Portfolio-DavidRV/static/media/AdviceAPI.d2b98662c1f0cee262b8.jpg",
     "index.html": "/Portfolio-DavidRV/index.html",
     "main.6de92685.css.map": "/Portfolio-DavidRV/static/css/main.6de92685.css.map",
-    "main.131c6b77.js.map": "/Portfolio-DavidRV/static/js/main.131c6b77.js.map"
+    "main.f45a6578.js.map": "/Portfolio-DavidRV/static/js/main.f45a6578.js.map"
   },
   "entrypoints": [
     "static/css/main.6de92685.css",
-    "static/js/main.131c6b77.js"
+    "static/js/main.f45a6578.js"
   ]
 }
