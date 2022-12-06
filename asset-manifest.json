@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Portfolio-DavidRV/static/css/main.6de92685.css",
-    "main.js": "/Portfolio-DavidRV/static/js/main.090da4e5.js",
-    "static/media/Fondo-CV.jpg": "/Portfolio-DavidRV/static/media/Fondo-CV.2d93986bf0f9a3cdb4c4.jpg",
-    "static/media/Prueba1CambioMain.jpg": "/Portfolio-DavidRV/static/media/Prueba1CambioMain.d54875b482349c00216c.jpg",
+    "main.css": "/Portfolio-DavidRV/static/css/main.c6e644f4.css",
+    "main.js": "/Portfolio-DavidRV/static/js/main.2cb8e44c.js",
+    "static/media/Fondo-CV.jpg": "/Portfolio-DavidRV/static/media/Fondo-CV.952ad5232cb88ab506f4.jpg",
+    "static/media/Prueba1CambioMain.jpg": "/Portfolio-DavidRV/static/media/Prueba1CambioMain.0bda8ef04aced06e397f.jpg",
     "static/media/imgDavid.png": "/Portfolio-DavidRV/static/media/imgDavid.ea43c21adc7e305c5421.png",
     "static/media/Testimonials.jpg": "/Portfolio-DavidRV/static/media/Testimonials.3f6ff93b3745f252bf3d.jpg",
     "static/media/E-Commerce.jpg": "/Portfolio-DavidRV/static/media/E-Commerce.24b7e90f6d3c2faae864.jpg",
@@ -13,11 +13,11 @@
     "static/media/Isotipo-original-fondo-bco.jpg": "/Portfolio-DavidRV/static/media/Isotipo-original-fondo-bco.b7a96e739e167b16d73b.jpg",
     "static/media/AdviceAPI.jpg": "/Portfolio-DavidRV/static/media/AdviceAPI.d2b98662c1f0cee262b8.jpg",
     "index.html": "/Portfolio-DavidRV/index.html",
-    "main.6de92685.css.map": "/Portfolio-DavidRV/static/css/main.6de92685.css.map",
-    "main.090da4e5.js.map": "/Portfolio-DavidRV/static/js/main.090da4e5.js.map"
+    "main.c6e644f4.css.map": "/Portfolio-DavidRV/static/css/main.c6e644f4.css.map",
+    "main.2cb8e44c.js.map": "/Portfolio-DavidRV/static/js/main.2cb8e44c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6de92685.css",
-    "static/js/main.090da4e5.js"
+    "static/css/main.c6e644f4.css",
+    "static/js/main.2cb8e44c.js"
   ]
 }
