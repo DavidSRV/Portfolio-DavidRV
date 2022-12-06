@@ -13,6 +13,7 @@
 
     @include for-size(small) {
        height: inherit;
+       padding: 20px 0 0;
     }
 
     & .footer__containerIcons {
