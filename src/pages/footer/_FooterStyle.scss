@@ -1,12 +1,19 @@
 @use '../../style/colors' as *;
+@use '../../style/style.scss' as *;
+
 
 .footer {
+
     height: 18vw;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
     background-color: $background-footer;
+
+    @include for-size(small) {
+       height: inherit;
+    }
 
     & .footer__containerIcons {
         display: flex;

@@ -1,4 +1,5 @@
 @use '../../style/colors' as *;
+@use '../../style/style.scss' as *;
 
 @mixin skills($grid-column) {
 
@@ -55,11 +56,20 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 
+    @include for-size(small) {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
     .skills__General {
         width: 60%;
         margin: 0 auto;
         position: relative;
         left: 80px;
+
+        @include for-size(small) {
+           position: inherit;
+        }
+
 
         & .skills__description {
             text-align: center;

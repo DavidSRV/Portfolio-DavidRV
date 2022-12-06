@@ -1,8 +1,13 @@
 @use '../../style/colors' as *;
+@use '../../style/style.scss' as *;
 
 .portfolio {
 
     height: 100vh;
+
+    @include for-size(small) {
+        height: inherit;
+     }
 
     & .portfolio__title {
         text-align: center;
@@ -27,6 +32,11 @@
         background-color: $background-projects;
         padding: 10px 20px;
         border-radius: 10px;
+
+        @include for-size(small) {
+            grid-template-columns: repeat(1, 1fr);
+            margin: inherit;
+        }
 
         & .portfolio__container {
 
@@ -117,7 +127,5 @@
 
 
     }
-
-
 
 }
