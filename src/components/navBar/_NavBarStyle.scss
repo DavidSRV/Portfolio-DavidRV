@@ -1,4 +1,5 @@
 @use '../../style/colors' as *;
+@use '../../style/style.scss' as *;
 
 .links__containers {
     display: none;
@@ -18,12 +19,19 @@
             font-weight: 600;
             user-select: none;
         }
+
     }
 
     & .links__general {
         padding: 5px;
         display: flex;
         gap: 20px;
+
+        @include for-size(small) {
+            
+            font-size: 0.8rem;
+            gap: 5px;
+         }
 
         & a {
             text-decoration: none;
