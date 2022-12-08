@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-DavidRV/static/css/main.6902aca0.css",
+    "main.css": "/Portfolio-DavidRV/static/css/main.595a2512.css",
     "main.js": "/Portfolio-DavidRV/static/js/main.2cb8e44c.js",
     "static/media/Fondo-CV.jpg": "/Portfolio-DavidRV/static/media/Fondo-CV.952ad5232cb88ab506f4.jpg",
     "static/media/Prueba1CambioMain.jpg": "/Portfolio-DavidRV/static/media/Prueba1CambioMain.0bda8ef04aced06e397f.jpg",
@@ -13,11 +13,11 @@
     "static/media/Isotipo-original-fondo-bco.jpg": "/Portfolio-DavidRV/static/media/Isotipo-original-fondo-bco.b7a96e739e167b16d73b.jpg",
     "static/media/AdviceAPI.jpg": "/Portfolio-DavidRV/static/media/AdviceAPI.d2b98662c1f0cee262b8.jpg",
     "index.html": "/Portfolio-DavidRV/index.html",
-    "main.6902aca0.css.map": "/Portfolio-DavidRV/static/css/main.6902aca0.css.map",
+    "main.595a2512.css.map": "/Portfolio-DavidRV/static/css/main.595a2512.css.map",
     "main.2cb8e44c.js.map": "/Portfolio-DavidRV/static/js/main.2cb8e44c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6902aca0.css",
+    "static/css/main.595a2512.css",
     "static/js/main.2cb8e44c.js"
   ]
 }
