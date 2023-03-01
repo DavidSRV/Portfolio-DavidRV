@@ -4,7 +4,9 @@ import CreditCard from "../assets/img/CrediCard.jpg"
 import TrackerDash from "../assets/img/TimeTrackerDash.jpg"
 import Testimonial from "../assets/img/Testimonials.jpg"
 import AdiviceAPI from "../assets/img/AdviceAPI.jpg"
-import SpaceTS from "../assets/img/SPACETS.jpg"
+import SpaceTS from "../assets/img/SPACETS.bak.jpg"
+import TaskifyTS from "../assets/img/TaskifyTS.jpg" 
+import WebMERN from "../assets/img/MERN.jpg"
 
 
 export const projects = [
@@ -19,6 +21,12 @@ export const projects = [
         urlRepo: "https://github.com/DavidSRV/E-commerce",
         urlLive: "https://davidsrv.github.io/E-commerce/",
         img: Ecommerce,
+    },
+    {
+        name: "SpaceTS",
+        urlRepo: "https://github.com/DavidSRV/SpaceTS",
+        urlLive: "https://davidsrv.github.io/SpaceTS/",
+        img: SpaceTS
     },
     {
         name: "CreditCard",
@@ -39,15 +47,21 @@ export const projects = [
         img: Testimonial,
     },
     {
-        name: "SpaceTS",
-        urlRepo: "https://github.com/DavidSRV/SpaceTS",
-        urlLive: "https://davidsrv.github.io/SpaceTS/",
-        img: SpaceTS
-    },
-    {
         name: "AdviceAPI",
         urlRepo: "https://github.com/DavidSRV/AdviceGenerator",
         urlLive: "https://davidsrv.github.io/AdviceGenerator/",
         img: AdiviceAPI,
     },
+    {
+        name: "TaskifyTS",
+        urlRepo: "https://github.com/DavidSRV/Taskify-TS",
+        urlLive: "https://davidsrv.github.io/Taskify-TS/",
+        img: TaskifyTS,
+    },
+    {
+        name: "Web-MERN",
+        urlRepo: "https://github.com/DavidSRV/WebSiteMern",
+        urlLive: "https://github.com/DavidSRV/WebSiteMern",
+        img: WebMERN
+    }
     ]
