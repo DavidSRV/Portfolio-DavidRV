@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio-DavidRV/static/css/main.595a2512.css",
-    "main.js": "/Portfolio-DavidRV/static/js/main.2cb8e44c.js",
+    "main.css": "/Portfolio-DavidRV/static/css/main.c47c9af2.css",
+    "main.js": "/Portfolio-DavidRV/static/js/main.ceba5e39.js",
     "static/media/Fondo-CV.jpg": "/Portfolio-DavidRV/static/media/Fondo-CV.952ad5232cb88ab506f4.jpg",
     "static/media/Prueba1CambioMain.jpg": "/Portfolio-DavidRV/static/media/Prueba1CambioMain.0bda8ef04aced06e397f.jpg",
     "static/media/imgDavid.png": "/Portfolio-DavidRV/static/media/imgDavid.ea43c21adc7e305c5421.png",
     "static/media/Testimonials.jpg": "/Portfolio-DavidRV/static/media/Testimonials.3f6ff93b3745f252bf3d.jpg",
+    "static/media/MERN.jpg": "/Portfolio-DavidRV/static/media/MERN.a1fc11eaaf804ad32dbc.jpg",
+    "static/media/SPACETS.bak.jpg": "/Portfolio-DavidRV/static/media/SPACETS.bak.527fb8b4a12c9a7baca0.jpg",
     "static/media/E-Commerce.jpg": "/Portfolio-DavidRV/static/media/E-Commerce.24b7e90f6d3c2faae864.jpg",
+    "static/media/TaskifyTS.jpg": "/Portfolio-DavidRV/static/media/TaskifyTS.75629c95f11b3baafbcc.jpg",
     "static/media/TimeTrackerDash.jpg": "/Portfolio-DavidRV/static/media/TimeTrackerDash.af0efaf52647d9cff29b.jpg",
     "static/media/TODO.jpg": "/Portfolio-DavidRV/static/media/TODO.dd873d4caea2918b6871.jpg",
     "static/media/CrediCard.jpg": "/Portfolio-DavidRV/static/media/CrediCard.ffcfa3d969397b3eafb8.jpg",
     "static/media/Isotipo-original-fondo-bco.jpg": "/Portfolio-DavidRV/static/media/Isotipo-original-fondo-bco.b7a96e739e167b16d73b.jpg",
     "static/media/AdviceAPI.jpg": "/Portfolio-DavidRV/static/media/AdviceAPI.d2b98662c1f0cee262b8.jpg",
     "index.html": "/Portfolio-DavidRV/index.html",
-    "main.595a2512.css.map": "/Portfolio-DavidRV/static/css/main.595a2512.css.map",
-    "main.2cb8e44c.js.map": "/Portfolio-DavidRV/static/js/main.2cb8e44c.js.map"
+    "main.c47c9af2.css.map": "/Portfolio-DavidRV/static/css/main.c47c9af2.css.map",
+    "main.ceba5e39.js.map": "/Portfolio-DavidRV/static/js/main.ceba5e39.js.map"
   },
   "entrypoints": [
-    "static/css/main.595a2512.css",
-    "static/js/main.2cb8e44c.js"
+    "static/css/main.c47c9af2.css",
+    "static/js/main.ceba5e39.js"
   ]
 }
