@@ -4,6 +4,8 @@ import CreditCard from "../assets/img/CrediCard.jpg"
 import TrackerDash from "../assets/img/TimeTrackerDash.jpg"
 import Testimonial from "../assets/img/Testimonials.jpg"
 import AdiviceAPI from "../assets/img/AdviceAPI.jpg"
+import SpaceTS from "../assets/img/SPACETS.jpg"
+
 
 export const projects = [
     {
@@ -37,9 +39,15 @@ export const projects = [
         img: Testimonial,
     },
     {
+        name: "SpaceTS",
+        urlRepo: "https://github.com/DavidSRV/SpaceTS",
+        urlLive: "https://davidsrv.github.io/SpaceTS/",
+        img: SpaceTS
+    },
+    {
         name: "AdviceAPI",
         urlRepo: "https://github.com/DavidSRV/AdviceGenerator",
         urlLive: "https://davidsrv.github.io/AdviceGenerator/",
         img: AdiviceAPI,
     },
-]
+    ]

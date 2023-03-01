@@ -26,8 +26,6 @@ function MainPage() {
           </div>
         </div>
 
-        {/* <p className="layout__descriptionBorder">David Ruiz Vargas - Front Dev </p> */}
-
        <a href="#about"><BsChevronDoubleDown className="layout__iconDown" /></a> 
       </div>
 
